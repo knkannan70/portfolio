@@ -1489,7 +1489,7 @@ footer span a:hover::after {
     }
     
     .home {
-        height: auto;
+        height: 100vh;
         min-height: auto;
         padding: 120px 0 80px;
     }
@@ -1698,3 +1698,4 @@ footer span a:hover::after {
         height: 5px;
     }
 }
+
