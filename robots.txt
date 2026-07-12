@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://knkannan70.github.io/sitemap.xml
